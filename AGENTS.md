@@ -1,3 +1,7 @@
+## Domain language
+
+Use the terms in `CONTEXT.md` in code, UI copy and emails. Don't use the words it lists to avoid.
+
 ## Verification checks
 
 Do these checks in this order before you report a change to `app/` as complete:
